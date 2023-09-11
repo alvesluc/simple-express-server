@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "The server of the API example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
